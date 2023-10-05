@@ -1,4 +1,4 @@
-# aio
+# NOTE
 - `Update !!! Add DNS Setting`
 - `Note !!! for multipath please change to Xray-core mod in menu script`
 # Required
@@ -8,12 +8,5 @@
 - CPU MIN 1 CORE
 - RAM 1GB
 
-# Installation
-- via WGET
-```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/FadlyNotNot/vpn/main/xray)"
-```
-- via CURL
-```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/FadlyNotNot/vpn/main/xray)"
-```
+# INSATALL SCRIPT
+<pre><code>bash -c "$(wget -qO- https://raw.githubusercontent.com/FadlyNotNot/vpn/main/xray)"</code></pre>
